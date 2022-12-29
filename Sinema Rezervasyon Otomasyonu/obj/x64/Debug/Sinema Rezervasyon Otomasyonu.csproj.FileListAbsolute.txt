@@ -1,0 +1,12 @@
+C:\Users\EmreP\OneDrive\Masaüstü\Sinema Rezervasyonu\Sinema Rezervasyon Otomasyonu\bin\x64\Debug\Sinema Rezervasyon Otomasyonu.exe.config
+C:\Users\EmreP\OneDrive\Masaüstü\Sinema Rezervasyonu\Sinema Rezervasyon Otomasyonu\bin\x64\Debug\Sinema Rezervasyon Otomasyonu.exe
+C:\Users\EmreP\OneDrive\Masaüstü\Sinema Rezervasyonu\Sinema Rezervasyon Otomasyonu\bin\x64\Debug\Sinema Rezervasyon Otomasyonu.pdb
+C:\Users\EmreP\OneDrive\Masaüstü\Sinema Rezervasyonu\Sinema Rezervasyon Otomasyonu\obj\x64\Debug\Sinema Rezervasyon Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\EmreP\OneDrive\Masaüstü\Sinema Rezervasyonu\Sinema Rezervasyon Otomasyonu\obj\x64\Debug\Sinema_Rezervasyon_Otomasyonu.frmFilmKayit.resources
+C:\Users\EmreP\OneDrive\Masaüstü\Sinema Rezervasyonu\Sinema Rezervasyon Otomasyonu\obj\x64\Debug\Sinema_Rezervasyon_Otomasyonu.frmGenel.resources
+C:\Users\EmreP\OneDrive\Masaüstü\Sinema Rezervasyonu\Sinema Rezervasyon Otomasyonu\obj\x64\Debug\Sinema_Rezervasyon_Otomasyonu.frmRezervasyon.resources
+C:\Users\EmreP\OneDrive\Masaüstü\Sinema Rezervasyonu\Sinema Rezervasyon Otomasyonu\obj\x64\Debug\Sinema_Rezervasyon_Otomasyonu.Properties.Resources.resources
+C:\Users\EmreP\OneDrive\Masaüstü\Sinema Rezervasyonu\Sinema Rezervasyon Otomasyonu\obj\x64\Debug\Sinema Rezervasyon Otomasyonu.csproj.GenerateResource.cache
+C:\Users\EmreP\OneDrive\Masaüstü\Sinema Rezervasyonu\Sinema Rezervasyon Otomasyonu\obj\x64\Debug\Sinema Rezervasyon Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\EmreP\OneDrive\Masaüstü\Sinema Rezervasyonu\Sinema Rezervasyon Otomasyonu\obj\x64\Debug\Sinema Rezervasyon Otomasyonu.exe
+C:\Users\EmreP\OneDrive\Masaüstü\Sinema Rezervasyonu\Sinema Rezervasyon Otomasyonu\obj\x64\Debug\Sinema Rezervasyon Otomasyonu.pdb
